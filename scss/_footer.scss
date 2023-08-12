@@ -1,6 +1,7 @@
 @include body-class(true) {
 
 	.sui-footer {
+		display:none;
 		margin-top: #{$sui-gutter-md * 2};
 		color: $footer-color;
 		font: $font--medium 12px/22px $font;
